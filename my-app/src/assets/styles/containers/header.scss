@@ -1,0 +1,23 @@
+.header {
+  max-width: 1177px;
+  min-height: 48px;
+  padding: 0 28px 0 26px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: #d9d9d9;
+  margin: 0 auto;
+  margin-bottom: 19px;
+}
+
+.blog-name-header {
+  margin-left: 122px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  gap: 19px;
+}
